@@ -9,7 +9,7 @@ Starter notebook for AI4EO #MapYourCity Challenge
 
 ## Flowchart diagram for the baseline model
 
-The model performs data fusion of the three different modalities of street-view images, aerial VHR images, and Sentinel-2 data in the latent feature space. The flowchart of the model is:
+The model performs data fusion of the three different modalities of street-view images, top-view VHR images, and Sentinel-2 data in the latent feature space. The flowchart diagram of the model is:
 
 ![plot](./Figures/DiagramFlowchart.png)
 
