@@ -7,6 +7,8 @@ Starter notebook for AI4EO #MapYourCity Challenge
 
  - For the baseline model, the files are: [src_model/MapYourCity_ExampleTrain.py](src_model/MapYourCity_ExampleTrain.py) and [src_model/MapYourCity_ExampleTest.py](src_model/MapYourCity_ExampleTest.py) (and [model_notebook/Challenge_AI4EO_Model_Notebook.ipynb](model_notebook/Challenge_AI4EO_Model_Notebook.ipynb))
 
+Paper: [http://arxiv.org/pdf/2502.13818](http://arxiv.org/pdf/2502.13818)    
+
 ## Flowchart diagram for the baseline model
 
 The model performs data fusion of the three different modalities of street-view images, top-view VHR images, and Sentinel-2 data in the latent feature space. The flowchart diagram of the model is:
