@@ -1,5 +1,5 @@
 # MapYourCity
-Starter notebook for AI4EO #MapYourCity Challenge
+Starter notebook for AI4EO #MapYourCity ESA Challenge
 
  - The main file in this repo is: [MapYourCity-data-exploration.ipynb](MapYourCity-data-exploration.ipynb)
 
